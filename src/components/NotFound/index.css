@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.content-page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-logo {
+  height: 280px;
+  width: 280px;
+}
+
+.content-heading {
+  font-size: 40px;
+  font-family: 'Consolas';
+  font-weight: 800;
+  color: #551e53;
+}
